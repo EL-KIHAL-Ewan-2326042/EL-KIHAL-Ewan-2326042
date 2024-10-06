@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ewan</h1>
-<h3 align="center">A fullstack software developer from France and 2nd year bachelor student in computer science</h3>
+<h3 align="center">A fullstack and software developer from France and 2nd year bachelor student in computer science</h3>
 
 - 🔭 I’m currently working on **rewriting my entire website in PHP**
 

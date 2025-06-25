@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ewan</h1>
-<h3 align="center">A fullstack and software developer from France and 2nd year bachelor student in computer science</h3>
+<h3 align="center">A fullstack and software developer from France and soon-to-be 3rd year bachelor student in computer science</h3>
 
-- 🔭 I’m currently working on **rewriting my entire website in PHP**
+- 🔭 I’m currently working on **rewriting my entire website in React**
 
-- 🌱 I’m currently learning **Symfony**
+- 🌱 I’m currently working on an **app** with a functioning backend
 
 - 👨‍💻 Most of my projects are available at [https://ewan-el-kihal.com/portfolio.html](https://ewan-el-kihal.com/portfolio.html)
 
-- 💬 Ask me about **Python**!
+- 💬 Ask me about **Java**!
 
 - 📫 How to reach me **pro@ewan-el-kihal.com**
 

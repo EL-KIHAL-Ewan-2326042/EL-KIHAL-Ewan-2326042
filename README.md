@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ewan</h1>
-<h3 align="center">A fullstack software developer from France and 2nd year bachelor student in computer science</h3>
+<h3 align="center">A fullstack software developer from France and 3rd year bachelor student in computer science</h3>
 
-- 🔭 I’m currently working on **rewriting my entire website in React**
+- 🔭 I’m currently working on **making a student association app, including a loyalty card**
 
-- 🌱 I’m also working on making **an entire app including a functioning backend**
+- 🌱 I’m also working on rewriting **my personal website**
 
 - 👨‍💻 Most of my projects are available at [https://ewan-el-kihal.com/portfolio.html](https://ewan-el-kihal.com/portfolio.html)
 
